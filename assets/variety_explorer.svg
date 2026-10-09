@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgE" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4c0519"/>
+      <stop offset="100%" stop-color="#881337"/>
+    </linearGradient>
+    <radialGradient id="roseDarkRed" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#be123c"/>
+      <stop offset="40%" stop-color="#9f1239"/>
+      <stop offset="80%" stop-color="#4c0519"/>
+      <stop offset="100%" stop-color="#1e0209"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#fff1f2"/>
+  <path d="M200 170 Q205 230 200 280" stroke="#15803d" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M202 210 Q240 195 260 215 Q235 235 203 218 Z" fill="#15803d"/>
+  <path d="M198 230 Q160 215 140 235 Q165 255 197 238 Z" fill="#166534"/>
+  <path d="M165 160 Q180 185 195 168 Q210 185 235 160 Q200 172 165 160 Z" fill="#15803d"/>
+  <circle cx="200" cy="120" r="58" fill="url(#roseDarkRed)"/>
+  <path d="M148 120 C143 78 257 78 252 120 C242 158 158 158 148 120 Z" fill="#881337"/>
+  <path d="M162 110 C162 72 238 72 238 110 C228 142 172 142 162 110 Z" fill="#9f1239"/>
+  <path d="M178 105 C178 82 222 82 222 105 C217 127 183 127 178 105 Z" fill="#be123c"/>
+  <path d="M188 102 C188 90 212 90 212 102 C207 114 193 114 188 102 Z" fill="#e11d48"/>
+  <rect x="20" y="20" width="130" height="28" rx="14" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="35" y="39" font-family="'Outfit', sans-serif" font-weight="700" font-size="13" fill="#881337">Rosa Explorer</text>
+</svg>
